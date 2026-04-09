@@ -25,52 +25,46 @@ export const cocktailLists = [
     price: "$10",
   },
   {
-    name: "Chappel Hills Shiraz",
+    name: "Arizona Hills",
     country: "US",
-    details: "Battle",
+    details: "Not Hub",
     price: "$40",
   },
   {
-    name: "Chappel Hills Shiraz",
+    name: "Washington DC",
     country: "US",
-    details: "Battle",
+    details: "Hotted",
     price: "$20",
   },
   {
-    name: "Chappel Hills Shiraz",
+    name: "Sen francisco",
     country: "US",
-    details: "Battle",
+    details: "Ohachi",
     price: "$50",
-  },
-  {
-    name: "Chappel Hills Shiraz",
-    country: "US",
-    details: "Battle",
-    price: "$29",
   },
 ];
 
 export const mocktailLists = [
   {
-    name: "Chappel Hills Shiraz",
+    name: "Tropical bloomm Shiraz",
     country: "US",
     details: "Battle",
     price: "$10",
   },
   {
-    name: "Chappel Hills Shiraz",
+    name: "Anythingg Shiraz",
     country: "US",
-    details: "Battle",
-    price: "$40",
+    details: "NOrte",
+    price: "$340",
   },
   {
-    name: "Chappel Hills Shiraz",
+    name: "Motel Room",
     country: "US",
-    details: "Battle",
-    price: "$20",
+    details: "NOt hw",
+    price: "$220",
   },
   {
-    name: "Chappel Hills Shiraz",
+    name: "U Courage",
     country: "US",
     details: "Battle",
     price: "$50",
@@ -78,7 +72,22 @@ export const mocktailLists = [
   {
     name: "Chappel Hills Shiraz",
     country: "US",
-    details: "Battle",
-    price: "$29",
+    details: "Damme",
+    price: "$292",
+  },
+];
+
+export const profileLists = [
+  {
+    imgPath: "/image/img1.png",
+  },
+  {
+    imgPath: "/image/img2.png",
+  },
+  {
+    imgPath: "/image/img3png",
+  },
+  {
+    imgPath: "/image/img4.png",
   },
 ];
